@@ -13,7 +13,7 @@ It also handles invalid input (e.g. if the user types a letter instead of a numb
 ## How to run
  
 ```bash
-python even_odd_calculator.py
+python even_odd.py
 ```
  
 ## Example usage
